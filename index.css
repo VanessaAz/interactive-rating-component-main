@@ -50,6 +50,7 @@ main {
 #rating-btn {
     display: flex;
     justify-content: space-around;
+    cursor: pointer;
 }
 
 #rating-btn > div:hover {
@@ -68,6 +69,7 @@ main {
     text-transform: uppercase;
     letter-spacing: 2px;
     font-family: inherit;
+    cursor: pointer;
 }
 
 #submit-btn:hover {
